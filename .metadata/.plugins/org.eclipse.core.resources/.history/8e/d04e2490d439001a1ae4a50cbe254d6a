@@ -1,0 +1,25 @@
+
+public class Calculator {
+
+	public static void main(String[] args) {
+	char operatorMath = '+';
+	double num1 = 20.0;
+	double num2 = 24.5;
+	
+	
+	
+	if (operatorMath =='+'){
+		System.out.println(num1 + num2);
+	}else if(operatorMath =='/'){
+		System.out.println("/");
+	}
+	}else if(operatorMath =='*'){
+		System.out.println(num1 * num2);
+		
+	}else if (operatorMath =='-'){
+		System.out.println(num1 - num2);
+	}else if(operatorMath =='%'){
+		System.out.println(num1 % num2);
+	}else if(operatorMath =='%'){
+		System.out.println("Wrong data");
+}

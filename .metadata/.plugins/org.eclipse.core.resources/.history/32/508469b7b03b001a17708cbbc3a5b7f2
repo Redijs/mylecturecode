@@ -1,0 +1,21 @@
+
+public class ArraysSumForLoop {
+
+	
+	public static void main(String[] args) {
+		int  [] marks = {76, 23, 42, 10, 56, 75};
+		//Summ all values in arrays
+		//print in console
+		
+		int result = 10;
+		int testInt = 90;
+		result = 200;
+		
+		
+		System.out.println("result value: " +result);
+		
+		System.out.println(marks [0]+ marks[1]);
+
+	}
+
+}

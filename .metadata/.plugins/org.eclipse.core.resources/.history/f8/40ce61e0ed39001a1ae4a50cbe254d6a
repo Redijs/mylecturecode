@@ -1,0 +1,23 @@
+
+public class ArraysPrimitiveDataType {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		int [] arrays;//aDeclare array with type int
+		//int arrays2 []; //var taa rakstiit, bet nav ljoti pareizi
+		arrays = new int [2];//var ielikt vairaak kaa 2 elementus
+		
+		int [] arr = new int [10];
+		
+		int [] arrTest = new int [1];
+		
+		arrTest [0] = 10;
+		
+		System.out.println(arrTest [0]);
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+import java.util.Arrays;
+
+
+public class ArraysAndLoop {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// Declare variable
+		int  [] marks = {76, 23, 42, 100, 99, 10, 56};
+		//Make toString all elements of array
+		
+		
+System.out.println(Arrays.toString(marks));
+	}
+
+}
