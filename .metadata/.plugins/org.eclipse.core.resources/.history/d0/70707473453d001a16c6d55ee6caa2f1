@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+
+public class ScannerInput {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in); // tas pats kaa Scanner tips, sc ir skanera nosaukums, tas vienads ar new
+		
+		System.out.println("Enter number");
+		int number = sc.nextInt();
+		System.out.println("Your number is "+ number);
+		
+		
+	}
+
+}
