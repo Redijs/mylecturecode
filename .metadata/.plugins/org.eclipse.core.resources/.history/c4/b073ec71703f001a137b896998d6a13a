@@ -1,0 +1,22 @@
+package lv.renata.repeatarrays;
+
+import java.util.Scanner;
+
+public class ScannerAnsArrays {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner sc = new Scanner (System.in);
+		int [] arr = new int [2];
+		
+		
+		int [0] = 1;
+		int [1] = 10;
+
+		
+		System.out.println(arr[0]+", "+ arr[1]);
+	}
+
+}

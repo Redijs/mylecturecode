@@ -1,0 +1,10 @@
+package lv.renata.player;
+
+public class FootballPlayer {
+	String name;
+	String position;
+	int ShirtNumber;
+	boolean build;
+	long height;
+	int weight;
+}

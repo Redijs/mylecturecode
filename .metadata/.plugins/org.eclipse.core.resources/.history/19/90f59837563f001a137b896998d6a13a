@@ -1,0 +1,15 @@
+package lv.renata;
+
+import lv.renata.geometricfigures.Circle;
+
+public class TestFigureClass {
+
+	
+	public static void main(String[] args) {
+			Circle figure = new Circle();
+			
+			System.out.println(figure.getColor()+ " "+ figure.getRadius());
+
+	}
+
+}
