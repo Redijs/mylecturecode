@@ -1,0 +1,13 @@
+package lv.renata;
+
+public class LearnMethods {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

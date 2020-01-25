@@ -1,0 +1,9 @@
+package lv.renata.learnjavaclass;
+
+public class Box {
+	double width; // shei parametri definee Boxu
+	double height;
+	double depth;
+	
+
+}

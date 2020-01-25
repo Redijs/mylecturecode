@@ -1,0 +1,24 @@
+package lv.renata; //strukturee muusu kodu
+
+public class LearnMethods {
+
+	/**
+	 * @param args
+	 */
+	//void - not returned type
+	//static - vinjam nevajag veidot klases objektu, lai izsauktu metodi
+	//public / private / protected
+	public static void main(String[] args) {//
+		// TODO Auto-generated method stub
+
+	}
+	public static void getMyName (){ // metodi var rakstiit tikai klases iekshpusee
+		System.out.println("My name is Renāta");
+	}
+	public static void getMyCity (){
+		
+	}
+	public static void getIHaveCat (){
+		
+	}
+}

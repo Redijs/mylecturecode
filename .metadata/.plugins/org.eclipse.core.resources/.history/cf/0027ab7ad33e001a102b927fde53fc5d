@@ -1,0 +1,19 @@
+package lv.renata;
+
+public class LearnMethodsWithParams {
+
+	// cast
+	public static void main(String[] args) {
+		int result = getArea(30.2);
+		System.out.println("Area: "+result);
+		
+
+	}
+	
+	public static int getArea(double radius){
+		double result = Math.PI * (radius * radius);
+		return (int)result;
+	
+}
+}
+

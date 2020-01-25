@@ -1,0 +1,19 @@
+package lv.renata;
+
+public class RefactorMethod {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		if(time < 8){
+			System.out.println("Good morning");//false
+		}else if(time <=18){
+			System.out.println("Good day");//false
+		}else{
+			System.out.println("Good evening");//kas paliks paari
+		}
+
+	}
+
+}

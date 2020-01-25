@@ -1,0 +1,15 @@
+package lv.renata.learnjavaclass;
+
+public class TestJavaProgram {
+
+	
+	public static void main(String[] args) {
+		Box boxObject = new Box (); 
+		double width = 20.23;
+		boxObject.width = width; // padodu veertiibu, ko saglabaaju ieprieksheejaa rindinjaa mainiigajaa
+		
+		System.out.println(boxObject.width);
+
+	}
+
+}

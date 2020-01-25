@@ -1,0 +1,14 @@
+package lv.renata.learnjavaclass;
+
+public class TestJavaProgram {
+
+	
+	public static void main(String[] args) {
+		Box boxObject = new Box (); 
+		
+		System.out.println(boxObject.height);
+		
+
+	}
+
+}
