@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class ScannerAnsArrays {
 
-	// 
+	// glabaasies maajasdarbsNoSestdienas
+	//
 	//maajaasdarbs // ar for loop ???
 	// user input array lenght
 	//user add to element value;

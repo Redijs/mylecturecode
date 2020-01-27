@@ -1,0 +1,38 @@
+package lv.renata.figure;
+
+public class Rectangle {
+
+	private float lenght = 1.0f;
+	private float width = 1.0f;
+	
+	public Rectangle(){
+		this.length =o;
+		this.width = 0;
+	}
+
+	public Rectangle(float lenght, float width) { // automaatiskais
+		this.lenght = lenght;
+		this.width = width;
+	}
+
+	
+	
+	public float getLenght() {
+		return lenght;
+	}
+
+	public void setLenght(float lenght) {
+		this.lenght = lenght;
+	}
+
+	public float getWidth() {
+		return width;
+	}
+
+	public void setWidth(float width) {
+		this.width = width;
+	}
+	
+	
+	
+}

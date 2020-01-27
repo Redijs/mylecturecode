@@ -1,0 +1,38 @@
+package lv.renata;
+
+public class TestBookStore {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		char m = 'm';
+		char f = 'f';		
+		char o = 'o';
+		
+	if (m==o || f == o){
+		System.out.println("It is M  or F");
+	}else{
+		System.out.println("It is not M or F");
+	}
+		
+		
+		
+		switch (o){
+			case 'm':
+				System.out.println("It is m");
+			    break;
+			case 'f':
+				System.out.println("It is f");
+				break;
+			default:
+				System.out.println("Not in the list");
+				
+		}
+
+	}
+
+}
