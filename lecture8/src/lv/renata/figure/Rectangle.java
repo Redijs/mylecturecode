@@ -10,12 +10,17 @@ public class Rectangle {
 		this.width = 14.0f;
 	}
 
-	public Rectangle(float lenght, float width) { // otrs automaatiskais konstruktors
+	public Rectangle(float width) {
 		this.lenght = 2.2f;
 		this.width = width;
 	}
+	
+	public Rectangle(float lenght, float width) { // otrs automaatiskais konstruktors
+		this.lenght = lenght;
+		this.width = width;
+	}
 
-		
+			
 	public float getLenght() {
 		return lenght;
 	}

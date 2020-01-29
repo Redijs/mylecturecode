@@ -1,0 +1,5 @@
+package lv.renata.users;
+
+public class Person {
+
+}

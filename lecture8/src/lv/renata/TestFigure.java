@@ -12,7 +12,7 @@ public class TestFigure {
 		Rectangle rectangle2 =new Rectangle(0.0f, 0.0f); //otro konstruktoru testeejam
 		System.out.println(rectangle2);
 		
-		Rectangle rectangle3 = new Rectangle (2.5f);
+		Rectangle rectangle3 = new Rectangle(2.5f);
 		System.out.println(rectangle3);
 	}
 

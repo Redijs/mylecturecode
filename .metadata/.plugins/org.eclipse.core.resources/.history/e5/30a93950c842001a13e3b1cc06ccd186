@@ -1,0 +1,19 @@
+package lv.renata.users;
+
+public class Student extends Person {
+	private int numCourse;
+	private String [] courses;
+	private int [] grades;
+	
+	
+	public Student (String name, String address){
+		super (name, address);
+		
+	}
+	public void addCourseGrade (String courses, int grades){
+		this.courses
+		
+	
+	
+	}
+}

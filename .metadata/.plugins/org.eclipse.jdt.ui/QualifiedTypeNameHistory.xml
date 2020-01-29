@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="lv.renata.player.FootballPlayer"/>
 <fullyQualifiedTypeName name="lv.renata.geometricfigures.Circle"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="lv.renata.bookstore.Author"/>
+<fullyQualifiedTypeName name="java.awt.print.Book"/>
+<fullyQualifiedTypeName name="lv.renata.bookstore.Book"/>
+<fullyQualifiedTypeName name="lv.renata.figure.Rectangle"/>
+<fullyQualifiedTypeName name="lv.renata.graph.Point2D"/>
+<fullyQualifiedTypeName name="lv.renata.graph.Point3D"/>
+<fullyQualifiedTypeName name="lv.renata.graph.Point4D"/>
+<fullyQualifiedTypeName name="lv.renata.users.Teacher"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
