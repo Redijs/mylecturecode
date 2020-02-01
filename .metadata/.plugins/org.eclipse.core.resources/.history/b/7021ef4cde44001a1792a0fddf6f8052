@@ -1,0 +1,5 @@
+package lv.renata.interfaces;
+
+public class Rectangle {
+
+}

@@ -1,0 +1,28 @@
+package lv.renata;
+
+import lv.renata.interfaces.Rectangle;
+import lv.renata.interfaces.Shape;
+
+public class TestInterface {
+
+	
+	public static void main(String[] args) {
+		int num1 = 20;
+		int num2 = 34;
+
+			Rectangle rect = new Rectangle (num1, num2);
+			System.out.println(rect.getLength() + " " + rect.getWidth());
+			System.out.println("____________________");
+			
+			Shape figure = new Rectangle(5, 10);
+			System.out.println(figure.toString());
+			
+			
+			
+			
+			
+			
+			
+	}
+
+}
