@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="lv.renata.player.FootballPlayer"/>
 <fullyQualifiedTypeName name="lv.renata.geometricfigures.Circle"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="lv.renata.bookstore.Author"/>
 <fullyQualifiedTypeName name="java.awt.print.Book"/>
 <fullyQualifiedTypeName name="lv.renata.bookstore.Book"/>
@@ -12,4 +11,15 @@
 <fullyQualifiedTypeName name="lv.renata.graph.Point4D"/>
 <fullyQualifiedTypeName name="lv.renata.users.Teacher"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="lv.renata.encapsulation.Student"/>
+<fullyQualifiedTypeName name="lv.renata.inheritance.Golf"/>
+<fullyQualifiedTypeName name="lv.renata.polymorphism.Animal"/>
+<fullyQualifiedTypeName name="lv.renata.polymorphism.Dog"/>
+<fullyQualifiedTypeName name="lv.renata.polymorphism.Cat"/>
+<fullyQualifiedTypeName name="lv.renata.interfaces.Rectangle"/>
+<fullyQualifiedTypeName name="lv.renata.interfaces.Shape"/>
+<fullyQualifiedTypeName name="lv.renata.interfaces.Triangle"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

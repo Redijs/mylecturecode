@@ -1,0 +1,22 @@
+package lv.renata;
+
+import java.util.ArrayList;
+
+public class TestArrayList {
+
+	
+	public static void main(String[] args) {
+		String [] arr = new String [2]; // visas metodes parastajaa arajaa
+		System.out.println(arr.length);
+		arr [0]= "ElementName";
+		
+		
+		
+		System.out.println(arr[0]);
+		ArrayList <String> array = new ArrayList<>(); //visas veertiibas listarajaa
+		System.out.println(array.size());// cik elementu ir arajlistaa
+		array.add("Element to Array");
+		System.out.println(a);
+	}
+
+}

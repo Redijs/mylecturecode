@@ -1,0 +1,13 @@
+package lv.renata.module;
+
+import java.util.ArrayList;
+
+public class League {
+	private String nameLeague;
+	private ArrayList <Team> nameOfTeam = new ArrayList;
+	
+	
+	
+	
+ 
+}

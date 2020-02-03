@@ -1,0 +1,20 @@
+package lv.renata;
+
+import java.util.ArrayList;
+
+public class TestArrayListCars {
+
+	
+	public static void main(String[] args) {
+		ArrayList <String> array = new ArrayList<>(); 
+		System.out.println(array.size());
+		array.add("Volvo"); 
+		array.add("BMW");
+		array.add("Ford");
+		array.add("Ford");
+		
+		System.out.println(array);
+
+	}
+
+}

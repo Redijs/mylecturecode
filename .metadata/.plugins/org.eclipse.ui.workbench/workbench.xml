@@ -40,29 +40,29 @@
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="testInheritance.java" partName="testInheritance.java" path="/home/student/workspace/lecture9/src/lv/renata/testInheritance.java" title="testInheritance.java" tooltip="lecture9/src/lv/renata/testInheritance.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture9/src/lv/renata/testInheritance.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="560" selectionTopPixel="106"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayList.java" partName="TestArrayList.java" path="/home/student/workspace/lecture11/src/lv/renata/TestArrayList.java" title="TestArrayList.java" tooltip="lecture11/src/lv/renata/TestArrayList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture11/src/lv/renata/TestArrayList.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="387" selectionOffset="344" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point2D.java" partName="Point2D.java" path="/home/student/workspace/lecture9/src/lv/renata/graph/Point2D.java" title="Point2D.java" tooltip="lecture9/src/lv/renata/graph/Point2D.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture9/src/lv/renata/graph/Point2D.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="419" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayListCars.java" partName="TestArrayListCars.java" path="/home/student/workspace/lecture11/src/lv/renata/TestArrayListCars.java" title="TestArrayListCars.java" tooltip="lecture11/src/lv/renata/TestArrayListCars.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture11/src/lv/renata/TestArrayListCars.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="409" selectionOffset="82" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Person.java" partName="Person.java" path="/home/student/workspace/lecture9/src/lv/renata/users/Person.java" title="Person.java" tooltip="lecture9/src/lv/renata/users/Person.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture9/src/lv/renata/users/Person.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="234" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayMethods.java" partName="TestArrayMethods.java" path="/home/student/workspace/lecture11/src/lv/renata/TestArrayMethods.java" title="TestArrayMethods.java" tooltip="lecture11/src/lv/renata/TestArrayMethods.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture11/src/lv/renata/TestArrayMethods.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="49" selectionOffset="128" selectionTopPixel="128"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Student.java" partName="Student.java" path="/home/student/workspace/lecture9/src/lv/renata/users/Student.java" title="Student.java" tooltip="lecture9/src/lv/renata/users/Student.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture9/src/lv/renata/users/Student.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="662" selectionTopPixel="31"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArraysWithObjects.java" partName="TestArraysWithObjects.java" path="/home/student/workspace/lecture11/src/lv/renata/TestArraysWithObjects.java" title="TestArraysWithObjects.java" tooltip="lecture11/src/lv/renata/TestArraysWithObjects.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture11/src/lv/renata/TestArraysWithObjects.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="788" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestPerson.java" partName="TestPerson.java" path="/home/student/workspace/lecture9/src/lv/renata/TestPerson.java" title="TestPerson.java" tooltip="lecture9/src/lv/renata/TestPerson.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture9/src/lv/renata/TestPerson.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="801" selectionTopPixel="16"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" partName="Team.java" path="/home/student/workspace/League/src/lv/renata/module/Team.java" title="Team.java" tooltip="League/src/lv/renata/module/Team.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/Team.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="811" selectionTopPixel="191"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Teacher.java" partName="Teacher.java" path="/home/student/workspace/lecture9/src/lv/renata/users/Teacher.java" title="Teacher.java" tooltip="lecture9/src/lv/renata/users/Teacher.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture9/src/lv/renata/users/Teacher.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="50" selectionOffset="467" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" partName="League.java" path="/home/student/workspace/League/src/lv/renata/module/League.java" title="League.java" tooltip="League/src/lv/renata/module/League.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/League.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="331" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -100,6 +100,7 @@
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
 <category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="485" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -276,7 +277,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="398" ratioRight="1194" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.749004" ratioLeft="564" ratioRight="189" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.7" ratioLeft="525" ratioRight="225" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -310,161 +311,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture9/src/lv/renata/users/Person.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture9/src/lv/renata/users/Student.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture9/src/lv/renata/TestPerson.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture9/src/lv/renata/users/Teacher.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture9/src/lv/renata/testInheritance.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture11/src/lv/renata/TestArrayMethods.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture11/src/lv/renata/TestArraysWithObjects.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/Team.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/League.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/Team.java"/>
 </editors>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="410" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="791" y="0"/>
 </item>
-<item historyLabel="Student.java" index="1">
-<position info="not_deleted" x="486" y="80"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="292" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="410" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="291" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="563" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="387" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="630" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="392" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="678" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="423" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="603" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="488" y="0"/>
 </item>
-<item historyLabel="Student.java" index="1">
-<position info="not_deleted" x="708" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="487" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="822" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="588" y="0"/>
 </item>
-<item historyLabel="Student.java" index="1">
-<position info="not_deleted" x="662" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="741" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="822" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="118" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="647" y="0"/>
+<item historyLabel="TestArrayMethods.java" index="0">
+<position info="not_deleted" x="128" y="49"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="822" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="118" y="0"/>
 </item>
-<item historyLabel="Student.java" index="1">
-<position info="not_deleted" x="662" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="524" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="822" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="343" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="381" y="0"/>
-</item>
-<item historyLabel="Person.java" index="0">
-<position info="not_deleted" x="185" y="27"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="381" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="389" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="397" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="400" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="713" y="0"/>
-</item>
-<item historyLabel="Person.java" index="0">
-<position info="not_deleted" x="234" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="713" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="400" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="473" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="379" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="199" y="7"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="811" y="0"/>
-</item>
-<item historyLabel="testInheritance.java" index="4">
-<position info="not_deleted" x="560" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="199" y="7"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="811" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="517" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="811" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="516" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="805" y="0"/>
-</item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="466" y="0"/>
-</item>
-<item historyLabel="TestPerson.java" index="2">
+<item historyLabel="TestArraysWithObjects.java" index="1">
 <position info="not_deleted" x="546" y="0"/>
 </item>
-<item historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="467" y="50"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="639" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="546" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="660" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="659" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="571" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="805" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="570" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="678" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="788" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="686" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="730" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="697" y="0"/>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="788" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="708" y="0"/>
+<item historyLabel="Team.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
-<position info="not_deleted" x="761" y="0"/>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestPerson.java" index="2">
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="788" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="799" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="898" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="799" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="799" y="0"/>
+</item>
+<item historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="788" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="799" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="898" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
 <position info="not_deleted" x="801" y="0"/>
 </item>
-<item active="true" historyLabel="Teacher.java" index="3">
-<position info="not_deleted" x="467" y="50"/>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="898" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="801" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="898" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="898" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="276" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="814" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="276" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="311" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="803" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="803" y="0"/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position/>
+</item>
+<item historyLabel="Team.java" index="4">
+<position info="not_deleted" x="811" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="803" y="0"/>
+</item>
+<item historyLabel="League.java" index="3">
+<position info="not_deleted" x="331" y="0"/>
+</item>
+<item active="true" historyLabel="TestArraysWithObjects.java" index="1">
+<position info="not_deleted" x="788" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -483,50 +484,50 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" tooltip="League/src/lv/renata/module/League.java">
+<persistable path="/League/src/lv/renata/module/League.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" tooltip="League/src/lv/renata/module/Team.java">
+<persistable path="/League/src/lv/renata/module/Team.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArraysWithObjects.java" tooltip="lecture11/src/lv/renata/TestArraysWithObjects.java">
+<persistable path="/lecture11/src/lv/renata/TestArraysWithObjects.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayMethods.java" tooltip="lecture11/src/lv/renata/TestArrayMethods.java">
+<persistable path="/lecture11/src/lv/renata/TestArrayMethods.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayListCars.java" tooltip="lecture11/src/lv/renata/TestArrayListCars.java">
+<persistable path="/lecture11/src/lv/renata/TestArrayListCars.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayList.java" tooltip="lecture11/src/lv/renata/TestArrayList.java">
+<persistable path="/lecture11/src/lv/renata/TestArrayList.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestAcannerInputArrayRaimonda.java" tooltip="lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java">
+<persistable path="/lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerInput.java" tooltip="lecture5/src/ScannerInput.java">
+<persistable path="/lecture5/src/ScannerInput.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysRepeat.java" tooltip="lecture4/src/ArraysRepeat.java">
+<persistable path="/lecture4/src/ArraysRepeat.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysInitialization.java" tooltip="lecture4/src/ArraysInitialization.java">
+<persistable path="/lecture4/src/ArraysInitialization.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestScannerInputArray.java" tooltip="lecture11/src/lv/renata/TestScannerInputArray.java">
+<persistable path="/lecture11/src/lv/renata/TestScannerInputArray.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerAnsArrays.java" tooltip="lecture7/src/lv/renata/repeatarrays/ScannerAnsArrays.java">
+<persistable path="/lecture7/src/lv/renata/repeatarrays/ScannerAnsArrays.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArraysAndLists.java" tooltip="lecture10/src/lv/renata/TestArraysAndLists.java">
+<persistable path="/lecture10/src/lv/renata/TestArraysAndLists.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Teacher.java" tooltip="lecture9/src/lv/renata/users/Teacher.java">
 <persistable path="/lecture9/src/lv/renata/users/Teacher.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestPerson.java" tooltip="lecture9/src/lv/renata/TestPerson.java">
-<persistable path="/lecture9/src/lv/renata/TestPerson.java"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Student.java" tooltip="lecture9/src/lv/renata/users/Student.java">
 <persistable path="/lecture9/src/lv/renata/users/Student.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Person.java" tooltip="lecture9/src/lv/renata/users/Person.java">
-<persistable path="/lecture9/src/lv/renata/users/Person.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point4D.java" tooltip="lecture9/src/lv/renata/graph/Point4D.java">
-<persistable path="/lecture9/src/lv/renata/graph/Point4D.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point3D.java" tooltip="lecture9/src/lv/renata/graph/Point3D.java">
-<persistable path="/lecture9/src/lv/renata/graph/Point3D.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Point2D.java" tooltip="lecture9/src/lv/renata/graph/Point2D.java">
-<persistable path="/lecture9/src/lv/renata/graph/Point2D.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="testInheritance.java" tooltip="lecture9/src/lv/renata/testInheritance.java">
-<persistable path="/lecture9/src/lv/renata/testInheritance.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFigure.java" tooltip="lecture8/src/lv/renata/TestFigure.java">
-<persistable path="/lecture8/src/lv/renata/TestFigure.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Rectangle.java" tooltip="lecture8/src/lv/renata/figure/Rectangle.java">
-<persistable path="/lecture8/src/lv/renata/figure/Rectangle.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Book.java" tooltip="lecture8/src/lv/renata/bookstore/Book.java">
-<persistable path="/lecture8/src/lv/renata/bookstore/Book.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Author.java" tooltip="lecture8/src/lv/renata/bookstore/Author.java">
-<persistable path="/lecture8/src/lv/renata/bookstore/Author.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestBookStore.java" tooltip="lecture8/src/lv/renata/TestBookStore.java">
-<persistable path="/lecture8/src/lv/renata/TestBookStore.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="maajasdarbsNoSestdienas.java" tooltip="lecture7/src/lv/renata/repeatarrays/maajasdarbsNoSestdienas.java">
-<persistable path="/lecture7/src/lv/renata/repeatarrays/maajasdarbsNoSestdienas.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="System.class" tooltip="java.lang.System">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=lecture7/\/usr\/lib\/jvm\/java-8-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.lang(System.class"/>
 </file>
 </mruList>
 </workbench>
