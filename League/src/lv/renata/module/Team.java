@@ -35,6 +35,8 @@ public class Team {
 	public int getLoses() {
 		return losses;
 	}
+	
+	
 
 	@Override
 	public String toString() {

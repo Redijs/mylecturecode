@@ -1,0 +1,19 @@
+package lv.renata.test;
+
+import lv.renata.module.League;
+import lv.renata.module.Team;
+
+public class TestTeamAndLeague {
+
+	
+	public static void main(String[] args) {
+//		ArraysList <String> arr = new ArraysList<>();
+		Team ska = new Team("SKA");
+		
+		League khl = new League("KHL");
+		khl.setNameOfTeams (khl.nameOfTeams.add);
+		
+
+	}
+
+}

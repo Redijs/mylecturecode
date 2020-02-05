@@ -1,0 +1,43 @@
+package lv.renata.module;
+
+import java.util.ArrayList;
+
+public class League {
+	private String name;
+	public ArrayList <Team> nameOfTeams;
+	
+	
+	//jaaizsauc kontruktors, bet izsaukshanas briidii varam padot tikai nosaukumu un shajaa mirklii izveidosies jauns koamndas nosaukums
+	public League (String leagueName){
+		this.name = leagueName;
+		this.nameOfTeams = new ArrayList <>();
+		
+	}
+	
+	public String getName() {
+		return name;
+	}
+	public void setNameLeague() {
+		this.name = name Team();
+	}
+	public ArrayList<Team> getNameOfTeams() {
+		return nameOfTeams;
+	}
+	public void setNameOfTeams(ArrayList<Team> nameOfTeams) {//masiivs saturees objektus no klases team
+		this.nameOfTeams = nameOfTeams;
+	}
+
+	@Override
+	public String toString() {
+		return "League [name=" + name + ", nameOfTeams=" + nameOfTeams + "]";
+	}
+
+	
+	}
+	
+	
+	
+	
+	
+ 
+}

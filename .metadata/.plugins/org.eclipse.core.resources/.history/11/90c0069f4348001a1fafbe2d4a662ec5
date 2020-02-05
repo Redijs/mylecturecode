@@ -1,0 +1,22 @@
+package lv.renata;
+
+public class TestExceptionHandling {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		try {
+			
+			int number1 = 0;
+			int number2 = 10;
+			int result = number2 / number1;
+				System.out.println(result);
+		}catch (Exception e ){ // e ir mainiigaa nosaukums
+			System.out.println("Check code in try block: " + e);
+		}
+				
+		
+	}
+
+}
