@@ -10,7 +10,6 @@
 <fullyQualifiedTypeName name="lv.renata.graph.Point3D"/>
 <fullyQualifiedTypeName name="lv.renata.graph.Point4D"/>
 <fullyQualifiedTypeName name="lv.renata.users.Teacher"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="lv.renata.encapsulation.Student"/>
 <fullyQualifiedTypeName name="lv.renata.inheritance.Golf"/>
 <fullyQualifiedTypeName name="lv.renata.polymorphism.Animal"/>
@@ -19,7 +18,6 @@
 <fullyQualifiedTypeName name="lv.renata.interfaces.Rectangle"/>
 <fullyQualifiedTypeName name="lv.renata.interfaces.Shape"/>
 <fullyQualifiedTypeName name="lv.renata.interfaces.Triangle"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
 <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
@@ -28,4 +26,16 @@
 <fullyQualifiedTypeName name="lv.renata.module.League"/>
 <fullyQualifiedTypeName name="lv.renata.module.Team"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
 </qualifiedTypeNameHistroy>

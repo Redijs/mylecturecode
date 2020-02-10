@@ -1,5 +1,0 @@
-package lv.renata.interfaces;
-
-public interface Shape {
-
-}

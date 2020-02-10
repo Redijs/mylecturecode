@@ -36,7 +36,9 @@ public class Team {
 		return losses;
 	}
 	
-	
+	public void setLosses(int losses) {
+		this.losses = losses;
+	}
 
 	@Override
 	public String toString() {

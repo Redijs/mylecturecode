@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="19" version="2.0">
+<workbench progressCount="21" version="2.0">
 <workbenchAdvisor/>
 <window height="769" maximized="true" width="1020" x="222" y="29">
 <fastViewData fastViewLocation="1024"/>
@@ -31,23 +31,28 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="2"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" partName="League.java" path="/home/student/workspace/League/src/lv/renata/module/League.java" title="League.java" tooltip="League/src/lv/renata/module/League.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/League.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="798" selectionTopPixel="174"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestScannerFileRead.java" partName="TestScannerFileRead.java" path="/home/student/workspace/lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java" title="TestScannerFileRead.java" tooltip="lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="138" selectionOffset="175" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTeamAndLeague.java" partName="TestTeamAndLeague.java" path="/home/student/workspace/League/src/lv/renata/test/TestTeamAndLeague.java" title="TestTeamAndLeague.java" tooltip="League/src/lv/renata/test/TestTeamAndLeague.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/test/TestTeamAndLeague.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="343" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestWriteFile.java" partName="TestWriteFile.java" path="/home/student/workspace/lecture13/src/lv/renata/inputoutput/TestWriteFile.java" title="TestWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestWriteFile.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture13/src/lv/renata/inputoutput/TestWriteFile.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="283" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" partName="Team.java" path="/home/student/workspace/League/src/lv/renata/module/Team.java" title="Team.java" tooltip="League/src/lv/renata/module/Team.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/Team.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="676" selectionTopPixel="290"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestCreateAndWriteFile.java" partName="TestCreateAndWriteFile.java" path="/home/student/workspace/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java" title="TestCreateAndWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="409" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestChangeStringToFile.java" partName="TestChangeStringToFile.java" path="/home/student/workspace/lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java" title="TestChangeStringToFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="480" selectionTopPixel="38"/>
 </editor>
 </editors>
 <views>
@@ -102,6 +107,9 @@
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
 <view id="org.eclipse.ui.views.TaskList" partName="Tasks">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
 <columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="546" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.priorityField="35" org.eclipse.ui.ide.resourceField="105"/>
@@ -116,6 +124,12 @@
 </view>
 <view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
 </view>
 </views>
 <perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
@@ -261,7 +275,7 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="398" ratioRight="1194" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.18816866" ratioLeft="299" ratioRight="1290" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.7" ratioLeft="525" ratioRight="225" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
@@ -279,7 +293,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="right" ratio="0.7495812" ratioLeft="895" ratioRight="299" relationship="2" relative="org.eclipse.ui.editorss">
+<info folder="true" part="right" ratio="0.7956488" ratioLeft="1024" ratioRight="263" relationship="2" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
@@ -292,163 +306,261 @@
 </mainWindow>
 </layout>
 </perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.749004" ratioLeft="564" ratioRight="189" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44858155" ratioLeft="253" ratioRight="311" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="796" ratioRight="796" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
 </perspectives>
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/League.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/test/TestTeamAndLeague.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/Team.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture13/src/lv/renata/inputoutput/TestWriteFile.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java"/>
 </editors>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="212" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="661" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="236" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="442" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="238" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="441" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="300" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="407" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="109" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="407" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="109" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="407" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="406" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="109" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="406" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="381" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="445" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="478" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="196" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="557" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="414" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="463" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
 <position info="not_deleted" x="484" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="486" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="601" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="484" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="270" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="486" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="342" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="397" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="341" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="486" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="121" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="397" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="430" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="397" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="161" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="440" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="934" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="377" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="108" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="377" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="142" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="377" y="0"/>
-</item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="142" y="0"/>
-</item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="343" y="0"/>
-</item>
-<item historyLabel="Team.java" index="2">
+<item historyLabel="TestChangeStringToFile.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Team.java" index="2">
-<position info="not_deleted" x="676" y="0"/>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="323" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="142" y="0"/>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="322" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="798" y="0"/>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="479" y="0"/>
 </item>
-<item historyLabel="Team.java" index="2">
-<position info="not_deleted" x="676" y="0"/>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="1057" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="798" y="0"/>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="480" y="0"/>
 </item>
-<item historyLabel="Team.java" index="2">
-<position info="not_deleted" x="676" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="121" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="1">
-<position info="not_deleted" x="343" y="0"/>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="480" y="0"/>
 </item>
-<item active="true" historyLabel="League.java" index="0">
-<position info="not_deleted" x="798" y="0"/>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="159" y="0"/>
+</item>
+<item historyLabel="TestWriteFile.java" index="1">
+<position info="not_deleted" x="227" y="35"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="314" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="314" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="439" y="0"/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="314" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="439" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="377" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="1064" y="0"/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="224" y="0"/>
+</item>
+<item historyLabel="TestWriteFile.java" index="1">
+<position info="not_deleted" x="283" y="0"/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="409" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="277" y="203"/>
+</item>
+<item historyLabel="TestScannerFileRead.java" index="0">
+<position info="not_deleted" x="175" y="138"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="277" y="203"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="744" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="722" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="455" y="0"/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="409" y="0"/>
+</item>
+<item historyLabel="TestWriteFile.java" index="1">
+<position info="not_deleted" x="283" y="0"/>
+</item>
+<item historyLabel="TestScannerFileRead.java" index="0">
+<position info="not_deleted" x="175" y="138"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="690" y="0"/>
+</item>
+<item historyLabel="TestCreateAndWriteFile.java" index="2">
+<position info="not_deleted" x="409" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="690" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="951" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="899" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="950" y="0"/>
+</item>
+<item historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="1005" y="0"/>
+</item>
+<item active="true" historyLabel="TestChangeStringToFile.java" index="3">
+<position info="not_deleted" x="930" y="4"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -456,6 +568,13 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="bottom"/>
+<trimItem IMemento.internal.id="right"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -467,6 +586,39 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestChangeStringToFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestCreateAndWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestWriteFile.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestWriteFile.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestScannerFileRead.java" tooltip="lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFileReader.java" tooltip="lecture13/src/lv/renata/inputoutput/TestFileReader.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestFileReader.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestBufferRead.java" tooltip="lecture13/src/lv/renata/inputoutput/TestBufferRead.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestBufferRead.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestReadFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestReadFile.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestReadFile.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestFile.java">
+<persistable path="/lecture13/src/lv/renata/inputoutput/TestFile.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTwoArrays.java" tooltip="lecture13/src/lv/renata/TestTwoArrays.java">
+<persistable path="/lecture13/src/lv/renata/TestTwoArrays.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestScannerInputArray.java" tooltip="lecture11/src/lv/renata/TestScannerInputArray.java">
+<persistable path="/lecture11/src/lv/renata/TestScannerInputArray.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestAcannerInputArrayRaimonda.java" tooltip="lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java">
+<persistable path="/lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" tooltip="League/src/lv/renata/module/Team.java">
 <persistable path="/League/src/lv/renata/module/Team.java"/>
 </file>
@@ -478,39 +630,6 @@
 </file>
 <file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="ArithmeticException.class" tooltip="java.lang.ArithmeticException">
 <persistable org.eclipse.jdt.ui.ClassFileIdentifier="=lecture12/\/usr\/lib\/jvm\/java-8-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.lang(ArithmeticException.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestThrow.java" tooltip="lecture12/src/lv/renata/TestThrow.java">
-<persistable path="/lecture12/src/lv/renata/TestThrow.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestExceptionHandling.java" tooltip="lecture12/src/lv/renata/TestExceptionHandling.java">
-<persistable path="/lecture12/src/lv/renata/TestExceptionHandling.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestDateInJava.java" tooltip="lecture12/src/lv/renata/TestDateInJava.java">
-<persistable path="/lecture12/src/lv/renata/TestDateInJava.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestRegex.java" tooltip="lecture12/src/lv/renata/TestRegex.java">
-<persistable path="/lecture12/src/lv/renata/TestRegex.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArraysWithObjects.java" tooltip="lecture11/src/lv/renata/TestArraysWithObjects.java">
-<persistable path="/lecture11/src/lv/renata/TestArraysWithObjects.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayMethods.java" tooltip="lecture11/src/lv/renata/TestArrayMethods.java">
-<persistable path="/lecture11/src/lv/renata/TestArrayMethods.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayListCars.java" tooltip="lecture11/src/lv/renata/TestArrayListCars.java">
-<persistable path="/lecture11/src/lv/renata/TestArrayListCars.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArrayList.java" tooltip="lecture11/src/lv/renata/TestArrayList.java">
-<persistable path="/lecture11/src/lv/renata/TestArrayList.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestAcannerInputArrayRaimonda.java" tooltip="lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java">
-<persistable path="/lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerInput.java" tooltip="lecture5/src/ScannerInput.java">
-<persistable path="/lecture5/src/ScannerInput.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysRepeat.java" tooltip="lecture4/src/ArraysRepeat.java">
-<persistable path="/lecture4/src/ArraysRepeat.java"/>
 </file>
 </mruList>
 </workbench>

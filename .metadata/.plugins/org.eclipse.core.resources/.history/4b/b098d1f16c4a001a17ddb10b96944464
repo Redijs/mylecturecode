@@ -1,0 +1,17 @@
+package lv.renata.inputoutput;
+
+public class TestChangeStringToFile {
+
+	
+	public static void main(String[] args) {
+		String defaultStr = "Hello user userName ";
+		
+		
+		
+		
+		
+		System.out.println(defaultStr +"Renāta");
+				
+	}
+
+}
