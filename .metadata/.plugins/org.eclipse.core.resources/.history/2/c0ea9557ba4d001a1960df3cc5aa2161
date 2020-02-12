@@ -1,0 +1,22 @@
+package lv.renata;
+
+import lv.renata.repeatJavaClassOOP.MyClass;
+
+public class TestOOP {
+	
+	public static void main (String [] args){//public - ka publiski pieejama, var piekljuut, static - neveidojam objektus no klases
+		MyClass newObj = new MyClass(); //sagatavoju vietu konkrētam klases objektam
+		//newObj.getClass(); // ar . jeb dot var izsaukt visas iespējamas metodes
+		//newObj.x = 0; // paarrakstam v ert ibu mainiigajam x
+		MyClass newObj2 = new MyClass(); //cits objekts, bet liidziigas strukturas
+		String strObj = "hello";
+		String strObj2 = "hello";
+		
+		
+		System.out.println(newObj.equals(newObj2));// saliidzina 2 objektus ar metodi equals, labi saliidzinaat stringus
+		System.out.println(strObj.equals(strObj2));
+		
+		System.out.println(newObj.x);
+	}
+
+}

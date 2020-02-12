@@ -1,0 +1,25 @@
+package lv.renata.test;
+
+import java.util.ArrayList;
+
+import lv.renata.module.League;
+import lv.renata.module.Team;
+
+public class TestTeamAndLeague {
+
+	
+	public static void main(String[] args) {
+	ArrayList<Team> khlTeam = new ArrayList<>();
+		Team ska = new Team("SKA");
+		Team cska = new Team("CSKA");
+		khlTeam.add(ska);
+		khlTeam.add(cska);
+		League khl = new League("KHL");
+		//khl.nameOfTeams.add(cska);
+		
+		khl.setNameOfTeams(khlTeam);
+		System.out.println(khl.toString());
+
+	}
+
+}

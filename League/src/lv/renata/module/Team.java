@@ -2,10 +2,10 @@ package lv.renata.module;
 
 public class Team {
 
-	String name;
-	int wins;
-	int losses;
-	int ties;
+public String name;
+	public int wins;
+	public int losses;
+	public int ties;
 	
 	public Team (String nameOfTeam){//kontruktoram tikai name jaabuut setotam ("Dinamo", )
 	this.name = nameOfTeam; // nosaukums vienmeer buus zinaams
@@ -42,12 +42,17 @@ public class Team {
 
 	@Override
 	public String toString() {
-		return "Team [name=" + name + ", wins=" + wins + ", losses=" + losses
-				+ ", ties=" + ties + "]";
+		return "\nTeam [name=" + name + ", wins=" + wins + ", losses=" + losses
+				+ ", ties=" + ties + "]"; // \n lai katru teamu printee savaa rindinjaa
 	}
 	public int gamesPlayed(){
 		return this.wins + this.ties + this.losses;
 		
+	}
+	//metode, kas paarbaudiis, vai konkreeta komanda eksistee  liigaa jeb liigas arajaa
+	
+	public int totalPoints(){
+		return (this.wins * 2 + this.ties);
 	}
 	
 }

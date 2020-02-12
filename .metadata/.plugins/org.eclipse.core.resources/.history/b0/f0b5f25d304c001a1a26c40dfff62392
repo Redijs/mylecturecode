@@ -1,0 +1,47 @@
+package lv.renata.module;
+
+import java.util.ArrayList;
+
+public class League {
+	private String name; //instances mainiigais
+	public ArrayList <Team> nameOfTeams; // instances mainiigais, tas, ko arrays turees sevii ir objekts Team.
+	
+	//jaaizsauc kontruktors, bet izsaukshanas briidii varam padot tikai nosaukumu un shajaa mirklii izveidosies jauns koamndas nosaukums
+	
+	
+	public League (String leagueName){//pieshkir liigai vaardu un pieglabaa vietas komandu vaardiem, kas tajaa piedalaas?
+		this.name = leagueName;
+		this.nameOfTeams = new ArrayList <>();
+		
+	}
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public ArrayList<Team> getNameOfTeams() {
+		return nameOfTeams;
+	}
+	public void setNameOfTeams(ArrayList<Team> nameOfTeams) {//masiivs saturees objektus no klases team, visu ievadiito komandu nosaukumus
+		this.nameOfTeams = nameOfTeams;
+	}
+	public void recordWinAndLoss (Team winner, Team loser){
+			
+		winner.wins++;
+		loser.losses++;
+	}	
+	@Override
+	public String toString() {
+		return "League [name=" + name + ", nameOfTeams=" + nameOfTeams + "]";
+	}
+
+	
+	}
+	
+	
+	
+	
+	
+ 

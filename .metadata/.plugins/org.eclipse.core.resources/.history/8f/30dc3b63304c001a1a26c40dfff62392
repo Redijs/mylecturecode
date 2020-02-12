@@ -1,0 +1,13 @@
+package lv.renata.module;
+
+public class ProjectIdeas {
+
+	/**
+	 * https://www.geeksforgeeks.org/alternatively-merge-two-strings-in-java/
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

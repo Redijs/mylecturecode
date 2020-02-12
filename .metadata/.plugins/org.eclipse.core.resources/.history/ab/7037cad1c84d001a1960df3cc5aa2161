@@ -1,0 +1,5 @@
+package lv.renata.repeatJavaClassOOP;
+
+public enum MyEnums {
+
+}
