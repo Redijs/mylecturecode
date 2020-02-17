@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class ScannerNewName {
+		
+		public static void main(String []args){
+	    Scanner skeneris = new Scanner(System.in);
+	    System.out.println("Please write father's first name: "); 
+	    String fatherName;
+	    fatherName = skeneris.nextLine(); 
+
+	    System.out.println("Please write mother's first name:");
+	    String motherName;
+	    motherName = skeneris.nextLine();
+
+//	  if (fatherName.length() => 3) {
+//	return fatherName.substring(fatherName.length() - 3);
+//	} else {
+//	  System.out.println("Please check if father's name is correct");
+//
+		}
+
+	}

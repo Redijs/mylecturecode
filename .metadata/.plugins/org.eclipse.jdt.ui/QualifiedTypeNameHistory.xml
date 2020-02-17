@@ -38,4 +38,11 @@
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.MyClass"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.MyClassMethods"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.MyClassConstructor"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.EncapsClass"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.ImplementInterface"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.MyEnums"/>
+<fullyQualifiedTypeName name="lv.renata.repeatJavaClassOOP.ClassExtendsAbstractClass"/>
 </qualifiedTypeNameHistroy>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="19" version="2.0">
+<workbench progressCount="15" version="2.0">
 <workbenchAdvisor/>
 <window height="769" maximized="true" width="1020" x="222" y="29">
 <fastViewData fastViewLocation="1024"/>
@@ -33,26 +33,21 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" partName="League.java" path="/home/student/workspace/League/src/lv/renata/module/League.java" title="League.java" tooltip="League/src/lv/renata/module/League.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/League.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1239" selectionTopPixel="728"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerNewName.java" partName="ScannerNewName.java" path="/home/student/workspace/Project/src/ScannerNewName.java" title="ScannerNewName.java" tooltip="Project/src/ScannerNewName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/ScannerNewName.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2268" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" partName="Team.java" path="/home/student/workspace/League/src/lv/renata/module/Team.java" title="Team.java" tooltip="League/src/lv/renata/module/Team.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/Team.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="54" selectionTopPixel="348"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCode.java" partName="StupidCode.java" path="/home/student/workspace/Project/src/StupidCode.java" title="StupidCode.java" tooltip="Project/src/StupidCode.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/StupidCode.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="3108" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTeamAndLeague.java" partName="TestTeamAndLeague.java" path="/home/student/workspace/League/src/lv/renata/test/TestTeamAndLeague.java" title="TestTeamAndLeague.java" tooltip="League/src/lv/renata/test/TestTeamAndLeague.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/test/TestTeamAndLeague.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="908" selectionTopPixel="116"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProjectIdeas.java" partName="ProjectIdeas.java" path="/home/student/workspace/League/src/lv/renata/module/ProjectIdeas.java" title="ProjectIdeas.java" tooltip="League/src/lv/renata/module/ProjectIdeas.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/League/src/lv/renata/module/ProjectIdeas.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="563" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCodeContinues.java" partName="StupidCodeContinues.java" path="/home/student/workspace/Project/src/StupidCodeContinues.java" title="StupidCodeContinues.java" tooltip="Project/src/StupidCodeContinues.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/StupidCodeContinues.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2164" selectionTopPixel="141"/>
 </editor>
 </editors>
 <views>
@@ -275,7 +270,7 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.18816866" ratioLeft="299" ratioRight="1290" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.16488357" ratioLeft="262" ratioRight="1327" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.7" ratioLeft="525" ratioRight="225" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
@@ -293,7 +288,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="right" ratio="0.7956488" ratioLeft="1024" ratioRight="263" relationship="2" relative="org.eclipse.ui.editorss">
+<info folder="true" part="right" ratio="0.8337218" ratioLeft="1073" ratioRight="214" relationship="2" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
@@ -391,160 +386,159 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/League.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/Team.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/test/TestTeamAndLeague.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/League/src/lv/renata/module/ProjectIdeas.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/ScannerNewName.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/StupidCode.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/StupidCodeContinues.java"/>
 </editors>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="761" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="761" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1328" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1568" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1492" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2186" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1733" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2657" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1804" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2679" y="0"/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2721" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="761" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2921" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1735" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2766" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="761" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2827" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="748" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2933" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="751" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2997" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1532" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2996" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="751" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2995" y="0"/>
 </item>
-<item historyLabel="Team.java" index="1">
-<position info="not_deleted" x="54" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="2832" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1532" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1732" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1163" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="3104" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1108" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1832" y="54"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="751" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="3104" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="857" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1832" y="54"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="898" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="3104" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1832" y="54"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1108" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1062" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1031" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1809" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1046" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1061" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1809" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="55" y="0"/>
 </item>
-<item historyLabel="Team.java" index="1">
-<position info="not_deleted" x="54" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1064" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1809" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="3104" y="0"/>
 </item>
-<item historyLabel="Team.java" index="1">
-<position info="not_deleted" x="54" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1831" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="526" y="24"/>
 </item>
-<item historyLabel="Team.java" index="1">
-<position info="not_deleted" x="54" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1831" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1239" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="526" y="24"/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1831" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="1008" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1208" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="278" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="526" y="24"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1239" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="278" y="0"/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="843" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="555" y="0"/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="StupidCodeContinues.java" index="2">
+<position info="not_deleted" x="2542" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1239" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="0" y="3108"/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="StupidCodeContinues.java" index="2">
+<position info="not_deleted" x="2165" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="912" y="152"/>
 </item>
-<item historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="StupidCodeContinues.java" index="2">
+<position info="not_deleted" x="2165" y="0"/>
 </item>
-<item historyLabel="TestTeamAndLeague.java" index="2">
-<position info="not_deleted" x="908" y="0"/>
+<item historyLabel="StupidCodeContinues.java" index="2">
+<position info="not_deleted" x="2115" y="0"/>
 </item>
-<item historyLabel="Team.java" index="1">
-<position info="not_deleted" x="54" y="0"/>
+<item historyLabel="StupidCodeContinues.java" index="2">
+<position info="not_deleted" x="2164" y="0"/>
 </item>
-<item historyLabel="League.java" index="0">
-<position info="not_deleted" x="1239" y="0"/>
+<item historyLabel="StupidCode.java" index="1">
+<position info="not_deleted" x="0" y="3108"/>
 </item>
-<item active="true" historyLabel="ProjectIdeas.java" index="3">
-<position info="not_deleted" x="471" y="0"/>
+<item active="true" historyLabel="ScannerNewName.java" index="0">
+<position info="not_deleted" x="912" y="152"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -563,50 +557,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProjectIdeas.java" tooltip="League/src/lv/renata/module/ProjectIdeas.java">
-<persistable path="/League/src/lv/renata/module/ProjectIdeas.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCodeContinues.java" tooltip="Project/src/StupidCodeContinues.java">
+<persistable path="/Project/src/StupidCodeContinues.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTeamAndLeague.java" tooltip="League/src/lv/renata/test/TestTeamAndLeague.java">
-<persistable path="/League/src/lv/renata/test/TestTeamAndLeague.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCode.java" tooltip="Project/src/StupidCode.java">
+<persistable path="/Project/src/StupidCode.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Team.java" tooltip="League/src/lv/renata/module/Team.java">
-<persistable path="/League/src/lv/renata/module/Team.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerNewName.java" tooltip="Project/src/ScannerNewName.java">
+<persistable path="/Project/src/ScannerNewName.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="League.java" tooltip="League/src/lv/renata/module/League.java">
-<persistable path="/League/src/lv/renata/module/League.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomOlga.java" tooltip="HomeworkRandomizer/src/RandomOlga.java">
+<persistable path="/HomeworkRandomizer/src/RandomOlga.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestChangeStringToFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestChangeStringToFile.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomizerCitu.java" tooltip="HomeworkRandomizer/src/RandomizerCitu.java">
+<persistable path="/HomeworkRandomizer/src/RandomizerCitu.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestCreateAndWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Randomizer.java" tooltip="HomeworkRandomizer/src/Randomizer.java">
+<persistable path="/HomeworkRandomizer/src/Randomizer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestWriteFile.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestWriteFile.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassExtendsAbstractClass.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/ClassExtendsAbstractClass.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/ClassExtendsAbstractClass.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestScannerFileRead.java" tooltip="lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestScannerFileRead.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractClass.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/AbstractClass.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/AbstractClass.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFileReader.java" tooltip="lecture13/src/lv/renata/inputoutput/TestFileReader.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestFileReader.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyEnums.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/MyEnums.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/MyEnums.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestBufferRead.java" tooltip="lecture13/src/lv/renata/inputoutput/TestBufferRead.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestBufferRead.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImplementInterface.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/ImplementInterface.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/ImplementInterface.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestReadFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestReadFile.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestReadFile.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Interface.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/Interface.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/Interface.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestFile.java">
-<persistable path="/lecture13/src/lv/renata/inputoutput/TestFile.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EncapsClass.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/EncapsClass.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/EncapsClass.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTwoArrays.java" tooltip="lecture13/src/lv/renata/TestTwoArrays.java">
-<persistable path="/lecture13/src/lv/renata/TestTwoArrays.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClassConstructor.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/MyClassConstructor.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/MyClassConstructor.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestScannerInputArray.java" tooltip="lecture11/src/lv/renata/TestScannerInputArray.java">
-<persistable path="/lecture11/src/lv/renata/TestScannerInputArray.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClassMethods.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/MyClassMethods.java">
+<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/MyClassMethods.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestAcannerInputArrayRaimonda.java" tooltip="lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java">
-<persistable path="/lecture11/src/lv/renata/TestAcannerInputArrayRaimonda.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestOOP.java" tooltip="lecture14/src/lv/renata/TestOOP.java">
+<persistable path="/lecture14/src/lv/renata/TestOOP.java"/>
 </file>
 </mruList>
 </workbench>
