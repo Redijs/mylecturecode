@@ -1,6 +1,6 @@
 package lv.renata;
 
-
+import java.util.Scanner;
 
 public class GenderChoice {
 
