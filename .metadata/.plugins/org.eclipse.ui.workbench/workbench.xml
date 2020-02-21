@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="20" version="2.0">
+<workbench progressCount="22" version="2.0">
 <workbenchAdvisor/>
 <window height="769" maximized="true" width="1020" x="222" y="29">
 <fastViewData fastViewLocation="1024"/>
@@ -33,26 +33,21 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerNewName.java" partName="ScannerNewName.java" path="/home/student/workspace/Project/src/ScannerNewName.java" title="ScannerNewName.java" tooltip="Project/src/ScannerNewName.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/ScannerNewName.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="914" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NameGenerator.java" partName="NameGenerator.java" path="/home/student/workspace/Project/src/lv/renata/NameGenerator.java" title="NameGenerator.java" tooltip="Project/src/lv/renata/NameGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/lv/renata/NameGenerator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3714" selectionTopPixel="1508"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCode.java" partName="StupidCode.java" path="/home/student/workspace/Project/src/StupidCode.java" title="StupidCode.java" tooltip="Project/src/StupidCode.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/StupidCode.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="3108" selectionOffset="0" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FatherName.java" partName="FatherName.java" path="/home/student/workspace/Project/src/lv/renata/FatherName.java" title="FatherName.java" tooltip="Project/src/lv/renata/FatherName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/lv/renata/FatherName.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="622" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCodeContinues.java" partName="StupidCodeContinues.java" path="/home/student/workspace/Project/src/StupidCodeContinues.java" title="StupidCodeContinues.java" tooltip="Project/src/StupidCodeContinues.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/StupidCodeContinues.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2164" selectionTopPixel="199"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestCreateAndWriteFile.java" partName="TestCreateAndWriteFile.java" path="/home/student/workspace/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java" title="TestCreateAndWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="444" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MotherName.java" partName="MotherName.java" path="/home/student/workspace/Project/src/lv/renata/MotherName.java" title="MotherName.java" tooltip="Project/src/lv/renata/MotherName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Project/src/lv/renata/MotherName.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="548" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -89,6 +84,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
+<category IMemento.internal.id="Errors"/>
 <category IMemento.internal.id="Warnings"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="485" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
@@ -131,7 +127,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -390,162 +386,163 @@
 <workingSets/>
 <navigationHistory>
 <editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/lv/renata/NameGenerator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/lv/renata/Testiem.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/lv/renata/TestiemTitleCase.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/ScannerNewName.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/StupidCode.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/StupidCodeContinues.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/StupidCode.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/StupidCodeContinues.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/lv/renata/FatherName.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/lv/renata/GenderChoice.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Project/src/lv/renata/MotherName.java"/>
 </editors>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="3104" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4781" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1831" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4320" y="0"/>
 </item>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="526" y="24"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4320" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1831" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4737" y="0"/>
 </item>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="526" y="24"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1831" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1008" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="278" y="0"/>
-</item>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="526" y="24"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="278" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="843" y="0"/>
-</item>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="555" y="0"/>
-</item>
-<item historyLabel="StupidCodeContinues.java" index="2">
-<position info="not_deleted" x="2542" y="0"/>
-</item>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="0" y="3108"/>
-</item>
-<item historyLabel="StupidCodeContinues.java" index="2">
-<position info="not_deleted" x="2165" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="912" y="152"/>
-</item>
-<item historyLabel="StupidCodeContinues.java" index="2">
-<position info="not_deleted" x="2165" y="0"/>
-</item>
-<item historyLabel="StupidCodeContinues.java" index="2">
-<position info="not_deleted" x="2115" y="0"/>
-</item>
-<item historyLabel="StupidCodeContinues.java" index="2">
-<position info="not_deleted" x="2164" y="0"/>
-</item>
-<item historyLabel="StupidCode.java" index="1">
-<position info="not_deleted" x="0" y="3108"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="912" y="152"/>
-</item>
-<item historyLabel="StupidCode.java" index="3">
-<position info="not_deleted" x="0" y="3108"/>
-</item>
-<item historyLabel="StupidCodeContinues.java" index="4">
-<position info="not_deleted" x="2164" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3459" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1897" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
+<item historyLabel="Testiem.java" index="1">
 <position/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="884" y="0"/>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1026" y="1"/>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="88" y="614"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="885" y="0"/>
-</item>
-<item historyLabel="ScannerNewName.java" index="0">
+<item historyLabel="Testiem.java" index="1">
 <position/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="914" y="0"/>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="336" y="36"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1026" y="1"/>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="199" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1034" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4193" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1766" y="1"/>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="336" y="36"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1716" y="0"/>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="199" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1828" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4186" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1888" y="0"/>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="372" y="1"/>
 </item>
-<item historyLabel="TestCreateAndWriteFile.java" index="5">
-<position info="not_deleted" x="444" y="0"/>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="199" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3393" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4224" y="0"/>
 </item>
-<item historyLabel="TestCreateAndWriteFile.java" index="5">
-<position info="not_deleted" x="444" y="0"/>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="372" y="1"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3393" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4224" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3445" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4243" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3430" y="10"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4320" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3445" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4610" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3361" y="30"/>
+<item historyLabel="NameGenerator.java" index="0">
+<position/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3449" y="0"/>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="372" y="1"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="3361" y="30"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4610" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="2776" y="0"/>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4257" y="0"/>
 </item>
-<item historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="2824" y="0"/>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="934" y="41"/>
 </item>
-<item active="true" historyLabel="ScannerNewName.java" index="0">
-<position info="not_deleted" x="1871" y="0"/>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4257" y="0"/>
+</item>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4688" y="0"/>
+</item>
+<item historyLabel="Testiem.java" index="1">
+<position/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position/>
+</item>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="3961" y="820"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="308" y="0"/>
+</item>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="4179" y="0"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position/>
+</item>
+<item historyLabel="FatherName.java" index="4">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="127" y="0"/>
+</item>
+<item historyLabel="TestiemTitleCase.java" index="2">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="127" y="0"/>
+</item>
+<item historyLabel="Testiem.java" index="1">
+<position info="not_deleted" x="2975" y="0"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="127" y="0"/>
+</item>
+<item historyLabel="ScannerNewName.java" index="3">
+<position info="not_deleted" x="372" y="1"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="127" y="0"/>
+</item>
+<item historyLabel="GenderChoice.java" index="5">
+<position info="not_deleted" x="161" y="0"/>
+</item>
+<item historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="127" y="0"/>
+</item>
+<item historyLabel="MotherName.java" index="6">
+<position info="not_deleted" x="548" y="0"/>
+</item>
+<item historyLabel="FatherName.java" index="4">
+<position info="not_deleted" x="622" y="0"/>
+</item>
+<item active="true" historyLabel="NameGenerator.java" index="0">
+<position info="not_deleted" x="127" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -564,6 +561,27 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerNewName.java" tooltip="Project/src/ScannerNewName.java">
+<persistable path="/Project/src/ScannerNewName.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestiemTitleCase.java" tooltip="Project/src/lv/renata/TestiemTitleCase.java">
+<persistable path="/Project/src/lv/renata/TestiemTitleCase.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Testiem.java" tooltip="Project/src/lv/renata/Testiem.java">
+<persistable path="/Project/src/lv/renata/Testiem.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GenderChoice.java" tooltip="Project/src/lv/renata/GenderChoice.java">
+<persistable path="/Project/src/lv/renata/GenderChoice.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MotherName.java" tooltip="Project/src/lv/renata/MotherName.java">
+<persistable path="/Project/src/lv/renata/MotherName.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FatherName.java" tooltip="Project/src/lv/renata/FatherName.java">
+<persistable path="/Project/src/lv/renata/FatherName.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainGenerator.java" tooltip="Project/src/lv/renata/MainGenerator.java">
+<persistable path="/Project/src/lv/renata/MainGenerator.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestCreateAndWriteFile.java" tooltip="lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java">
 <persistable path="/lecture13/src/lv/renata/inputoutput/TestCreateAndWriteFile.java"/>
 </file>
@@ -572,9 +590,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidCode.java" tooltip="Project/src/StupidCode.java">
 <persistable path="/Project/src/StupidCode.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerNewName.java" tooltip="Project/src/ScannerNewName.java">
-<persistable path="/Project/src/ScannerNewName.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomOlga.java" tooltip="HomeworkRandomizer/src/RandomOlga.java">
 <persistable path="/HomeworkRandomizer/src/RandomOlga.java"/>
@@ -590,24 +605,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractClass.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/AbstractClass.java">
 <persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/AbstractClass.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyEnums.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/MyEnums.java">
-<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/MyEnums.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImplementInterface.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/ImplementInterface.java">
-<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/ImplementInterface.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Interface.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/Interface.java">
-<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/Interface.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EncapsClass.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/EncapsClass.java">
-<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/EncapsClass.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClassConstructor.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/MyClassConstructor.java">
-<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/MyClassConstructor.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyClassMethods.java" tooltip="lecture14/src/lv/renata/repeatJavaClassOOP/MyClassMethods.java">
-<persistable path="/lecture14/src/lv/renata/repeatJavaClassOOP/MyClassMethods.java"/>
 </file>
 </mruList>
 </workbench>

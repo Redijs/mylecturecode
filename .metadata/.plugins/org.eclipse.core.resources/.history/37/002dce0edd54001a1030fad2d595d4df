@@ -116,7 +116,7 @@ public class NameGenerator {
 		printChoice = skeneris1.nextLine();
 
 		if (printChoice.equals("Y") || printChoice.equals("y")) {
-			System.out.println("Your document is created");
+			System.out.println("Your docement is created");
 			File fileObj = new File("ChildNameCertificate.txt");
 			BufferedWriter br = new BufferedWriter(new FileWriter(fileObj));
 			br.write(childName);
