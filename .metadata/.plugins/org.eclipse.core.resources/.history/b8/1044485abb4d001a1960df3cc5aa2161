@@ -1,8 +1,0 @@
-package lv.renata.repeatJavaClassOOP;
-
-public class MyClassMethods {
-	static void myMethod(){ // void atgriezh visu, kas shajaa metodee ir iekshaa
-		System.out.println("Hello world!");
-	}
-	
-}

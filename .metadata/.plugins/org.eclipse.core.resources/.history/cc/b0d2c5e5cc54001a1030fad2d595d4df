@@ -1,0 +1,15 @@
+package lv.renata;
+
+import java.text.BreakIterator;
+
+
+public class TestiemTitleCase extends NameGenerator{
+
+	public static String convertToTitleCaseIcu4j(String text) {
+	    if (text == null || text.isEmpty()) {
+	        return text;
+	    }
+	 
+	    return childName.toTitleCase(text, BreakIterator.getCharacterInstance());
+	}
+}
