@@ -11,39 +11,27 @@ public class NameGenerator {
 	public static void main(String[] args) throws IOException {
 		Scanner skeneris = new Scanner(System.in);
 		String skenObj = "";
-
+		
 		System.out.println("Please write father's first name: ");
 		FatherName fatherName = new FatherName(skeneris.nextLine());
 		System.out.println("Please write mother's first name: ");
 		MotherName motherName = new MotherName(skeneris.nextLine());
-		System.out.println("You entered: " + fatherName.getName() + " and "
-				+ motherName.getName());
+		System.out.println("You entered: " + fatherName.getName() + " and " + motherName.getName());
 
 		String childName = "";
-		String childNameM1 = motherName.begin(motherName.getName())
-				+ fatherName.end(fatherName.getName());
-		String childNameF1 = fatherName.begin(fatherName.getName())
-				+ motherName.end(motherName.getName());
-		String childNameM1F1 = motherName.begin(motherName.getName())
-				+ fatherName.end(fatherName.getName()) + " and "
-				+ fatherName.begin(fatherName.getName())
-				+ motherName.end(motherName.getName());
-		String childNameM2 = motherName.begin(motherName.getName())
-				+ fatherName.begin(fatherName.getName()) + "S";
-		String childNameF2 = motherName.begin(motherName.getName())
-				+ fatherName.begin(fatherName.getName()) + "A";
-		String childNameM2F2 = fatherName.end(fatherName.getName())
-				+ fatherName.begin(fatherName.getName()) + "S and "
-				+ motherName.end(motherName.getName())
-				+ motherName.begin(motherName.getName()) + "A";
+		String childNameM1 = motherName.begin(motherName.getName()) + fatherName.end(fatherName.getName());
+		String childNameF1 = fatherName.begin(fatherName.getName()) + motherName.end(motherName.getName());
+		String childNameM1F1 = motherName.begin(motherName.getName()) + fatherName.end(fatherName.getName()) + " and " + fatherName.begin(fatherName.getName()) + motherName.end(motherName.getName());
+		String childNameM2 = motherName.begin(motherName.getName()) + fatherName.begin(fatherName.getName()) + "S";
+		String childNameF2 = motherName.begin(motherName.getName()) + fatherName.begin(fatherName.getName()) + "A";
+		String childNameM2F2 = fatherName.end(fatherName.getName()) + fatherName.begin(fatherName.getName()) + "S and " + motherName.end(motherName.getName()) + motherName.begin(motherName.getName()) + "A";
 
 		GenderChoice gender = new GenderChoice();
 
 		boolean x = false;
 
 		do {
-			System.out
-					.println("If you know your child's gender, enter M for male and F for female, if not, enter X");
+			System.out.println("If you know your child's gender, enter M for male and F for female, if not, enter X");
 			skenObj = skeneris.next();
 			switch (gender.getGender(skenObj).toUpperCase()) {
 			case "M":
@@ -57,14 +45,12 @@ public class NameGenerator {
 				x = true;
 				break;
 			case "X":
-				childName = childNameM1F1;
-				System.out.println("Your child's name variants are: "
-						+ childName);
+				childName = childNameM1F1; 
+				System.out.println("Your child's name variants are: " + childName);
 				x = true;
 				break;
 			default:
-				System.out
-						.println("Invalid input - must enter M, F or X (upper or lower case)");
+				System.out.println("Invalid input - must enter M, F or X (upper or lower case)");
 				break;
 			}
 		} while (x == false);
@@ -73,29 +59,23 @@ public class NameGenerator {
 		boolean y = false;
 
 		do {
-			System.out
-					.println("Do you like the name(-s)? If you would like to try one more time, enter M, F or X for gender. If no, enter N!");
+			System.out.println(
+					"Do you like the name(-s)? If you would like to try one more time, enter M, F or X for gender. If no, enter N!");
 			skenObj = skeneris.next();
 			switch (gender.getGender(skenObj).toUpperCase()) {
 			case "M":
 				childName = childNameM2;
-				System.out
-						.println("Here you have one more variant of your child's name: "
-								+ childName);
+				System.out.println("Here you have one more variant of your child's name: " + childName);
 				y = true;
 				break;
 			case "F":
 				childName = childNameF2;
-				System.out
-						.println("Here you have one more variant of your child's name: "
-								+ childName);
+				System.out.println("Here you have one more variant of your child's name: " + childName);
 				y = true;
 				break;
 			case "X":
-				childName = childNameM2F2;
-				System.out
-						.println("Here you have one more variant of your child's name: "
-								+ childName);
+				childName = childNameM2F2; 
+				System.out.println("Here you have one more variant of your child's name: " + childName);
 				y = true;
 				break;
 			case "N":
@@ -103,16 +83,14 @@ public class NameGenerator {
 				y = true;
 				break;
 			default:
-				System.out
-						.println("Invalid input - must enter M, F or X (upper or lower case)");
+				System.out.println("Invalid input - must enter M, F or X (upper or lower case)");
 				break;
 			}
 		} while (y == false);
 
 		System.out.println("-------------------------------------");
 
-		System.out
-				.println("Would you like to print it in a document? Enter Y for yes and N for no!");
+		System.out.println("Would you like to print it in a document? Enter Y for yes and N for no!");
 		Scanner skeneris1 = new Scanner(System.in);
 		String printChoice;
 		printChoice = skeneris1.nextLine();
